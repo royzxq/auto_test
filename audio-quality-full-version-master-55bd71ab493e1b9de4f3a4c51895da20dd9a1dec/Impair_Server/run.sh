@@ -1,0 +1,1 @@
+sudo matlab -nosplash -nodesktop -r StartServerImpair\($1\)

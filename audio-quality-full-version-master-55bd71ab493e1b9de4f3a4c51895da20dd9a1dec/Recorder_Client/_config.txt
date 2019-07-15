@@ -1,0 +1,10 @@
+IP = '10.42.1.196’;
+Port = 12999;
+imIP = '10.42.1.1';
+imPort = 11999;
+ref_audio_name = 'speech.wav';
+impair_set_file = 'impairment.txt';
+max_play_count = 6;
+impairment_warmup_time = 0;
+record_device_name = ''; % leave empty as using the default
+playback_device_name = ''; % leave empty as using the default

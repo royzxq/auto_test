@@ -1,0 +1,7 @@
+IP = '127.0.0.1';
+Port = 12999;
+ref_audio_name = 'speech.wav';
+max_play_count = 10;
+sil_duration_between_playbacks = 1;
+record_device_name = ''; % leave empty as using the default
+playback_device_name = ''; % leave empty as using the default
